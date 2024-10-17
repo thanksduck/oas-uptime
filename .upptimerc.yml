@@ -7,15 +7,11 @@ sites:
     url: https://1as.in
   - name: OAS API
     url: https://oas.20032003.xyz/health
-  - name: OAS API v2
-    url: https://oas.20032003.xyz/api/v2/health
+  # - name: OAS API v2
+  #   url: https://oas.20032003.xyz/api/v2/health
   - name: Portfolio Website
     url: https://20032003.xyz
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
