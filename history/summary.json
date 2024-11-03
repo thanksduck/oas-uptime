@@ -4,27 +4,29 @@
     "url": "https://1as.in",
     "icon": "https://icons.duckduckgo.com/ip3/1as.in.ico",
     "slug": "one-alias-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 981,
-    "timeWeek": 930,
-    "timeMonth": 920,
-    "timeYear": 920,
-    "dailyMinutesDown": {}
+    "time": 891,
+    "timeDay": 660,
+    "timeWeek": 856,
+    "timeMonth": 891,
+    "timeYear": 891,
+    "dailyMinutesDown": {
+      "2024-11-03": 1
+    }
   },
   {
     "name": "OAS API",
     "url": "https://oas.20032003.xyz/health",
     "icon": "https://icons.duckduckgo.com/ip3/oas.20032003.xyz.ico",
     "slug": "oas-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,24 +35,28 @@
     "timeWeek": 658,
     "timeMonth": 719,
     "timeYear": 719,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "Portfolio Website",
     "url": "https://20032003.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/20032003.xyz.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 967,
-    "timeWeek": 920,
-    "timeMonth": 921,
-    "timeYear": 921,
-    "dailyMinutesDown": {}
+    "time": 894,
+    "timeDay": 671,
+    "timeWeek": 852,
+    "timeMonth": 894,
+    "timeYear": 894,
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   }
 ]
